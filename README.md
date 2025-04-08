@@ -13,6 +13,8 @@ tags:
 - instruction-dataset
 - sentiment-analysis
 - express-legal-funding
+- self-instruct
+- instruction-tuning
 task_categories:
 - text-classification
 - text-generation
@@ -128,3 +130,5 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Use an
 - instruction-dataset  
 - express-legal-funding  
 - sentiment-analysis
+- self-instruct
+- instruction-tuning
